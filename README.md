@@ -39,11 +39,15 @@ ___
 
 Utilizing the Streamlit interface, the user is able to enter sender, receiver, and amount details and click on 'Add Block' to create a new block. A block inspector is available on the left-hand side to verify the block has been added or to review all blocks stored in the ledger. 
 
-![Pychain Blocks](Images/blocks.PNG)
+![Pychain Blocks](pychain1.PNG)
 
-The Streamlit interface also allows the user to test the blockchain validation process by clicking on the 'Validate Chain' button. Once doing so, a 'True' response should be returned.
+Below is an image displaying all of the information from the table as it was cut off with a scrollbar.
 
-![Pychain Ledger Validation](Images/validation.PNG)
+![Pychain Ledger Block Data](blocks.PNG)
+
+The user is then allowed to press the validation button which performs a check to make sure that the blocks have been added correctly and are validated.
+
+![Pychain Ledger Validation](pychainvalidation.PNG)
 
 
 
