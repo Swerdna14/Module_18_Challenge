@@ -1,4 +1,4 @@
-# Module_18_Challenge
+# Creating_A_Mini_Blockchain
 
 In this challenge, we were tasked to create a Genesis block on the ledger and then be able to create and add new blocks to form a chain of data. This was double checked through validation and receiving a true or false statement.
 
