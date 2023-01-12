@@ -6,7 +6,7 @@ In this challenge, we were tasked to create a Genesis block on the ledger and th
 
 ## Technologies
 
-The credit risk resampling analysis leverages Python 3.8+ and utilizes the following project libraries and dependencies:
+Creating a Mini Blockchain and utilizes the following project libraries and dependencies:
 * [Streamlit](https://streamlit.io/) - a Python library that turns Python scripts into shareable web apps
 * [Pandas](https://pandas.pydata.org/) - a software library designed for open source data analysis and manipulation
 * dataclasses
